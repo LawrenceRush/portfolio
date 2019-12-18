@@ -10,8 +10,8 @@ function App() {
   return (
     <body>
       <Navbar/>
-      <Welcome/>
-      <Projects/>
+      <Welcome />
+      <Projects />
       <Contact/>
     </body>
   );

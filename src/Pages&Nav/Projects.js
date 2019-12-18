@@ -2,7 +2,7 @@ import React from 'react'
 
 function Projects() {
     return (
-        <section className="projects-con">
+        <section className="projects-con" id = "projects">
             
         </section >
     )
